@@ -1,0 +1,12 @@
+hosts:
+- node1
+- node2
+- node3
+- node4
+
+application:
+    hipp:
+        user: admin
+        group: admin
+        password: ENC[AES256_GCM,data:CGtytxBorgH=,ih:EDGUikmnaPid2o5K]
+        
